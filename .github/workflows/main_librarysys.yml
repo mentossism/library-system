@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'LibrarySys'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9684081437CB4A669E41D4F12812A886 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DDAAFE75BF54BF1986DFEB995CAF753 }}
           package: .
